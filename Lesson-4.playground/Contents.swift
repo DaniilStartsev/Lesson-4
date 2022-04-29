@@ -87,6 +87,7 @@ var sportCar = SportCar(color: .green, model: "Porsche", transmission: .auto, do
 
 trunkcar.pelrolFuel()
 trunkcar.fuelType
+trunkcar.door = .close
 sportCar.sedanBody()
 sportCar.bodyType
 
